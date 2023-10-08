@@ -1,6 +1,6 @@
 import {useEffect} from 'react'
 import moleImg from './mole.png'
-// Well...wherever you stored your moleImg.
+
 
 function Mole(props){
 
